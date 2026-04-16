@@ -22,7 +22,7 @@ The **SPAI Conan Line Art Generator** is a specialized AI tool that transforms c
 *   **🎭 Multi-Character Support:** Optimized for **Shinichi Kudo**, **Conan Edogawa**, **Ai Haibara**, and **Kaito Kid**
 *   **⚡ Rapid 20s Generation:** Get professional black-and-white manga sketches in seconds.
 *   **📦 High-Resolution Output:** Perfect for A4 printing, digital coloring practice, or screen displays
-*   **💰 100% Free:** Unlimited online access without registration or watermarks.
+*   **💰 100% Free:** Unlimited online access without registration or watermarks
 
 **[➡️ Convert Your Photos to Detective Conan Style for Free](https://www.sipingseo.com/zh/line-art-generator/conan-line-art)**
 
