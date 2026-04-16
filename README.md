@@ -18,7 +18,7 @@
 The **SPAI Conan Line Art Generator** is a specialized AI tool that transforms characters or personal photos into the iconic art style of *Detective Conan*. Perfect for fan art, tracing practice, or creating custom manga-style profile pictures
 
 ### Key Features
-*   **✨ Iconic Style Transfer:** Accurately replicates the line weights and character proportions of the *Detective Conan* universe.
+*   **✨ Iconic Style Transfer:** Accurately replicates the line weights and character proportions of the *Detective Conan* universe
 *   **🎭 Multi-Character Support:** Optimized for **Shinichi Kudo**, **Conan Edogawa**, **Ai Haibara**, and **Kaito Kid**.
 *   **⚡ Rapid 20s Generation:** Get professional black-and-white manga sketches in seconds.
 *   **📦 High-Resolution Output:** Perfect for A4 printing, digital coloring practice, or screen displays.
